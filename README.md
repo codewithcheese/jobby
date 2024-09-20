@@ -1,5 +1,7 @@
 # jobby
 
+**Please note this project is "complete", it is a demo, you may open issues to talk with others, but don't expect support. Feel free to fork.**
+
 Track new jobs from companies you like. Uses [Grist](https://www.getgrist.com/) to store and retrieve job data.
 
 See the [jobs](https://docs.getgrist.com/n9izTh6BMmma/Jobby/p/4) I am following. 
