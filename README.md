@@ -7,8 +7,10 @@ See the [jobs](https://docs.getgrist.com/n9izTh6BMmma/Jobby/p/4) I am following.
 ## Set up your own
 
 1. Clone this [grist](https://docs.getgrist.com/n9izTh6BMmma/Jobby/p/4) documents so that you can customize the company list.
-2. Clone this repo
-3. Deploy the worker to fly with your own API keys and document ID.
+2. Add the company you want to track to the `Company` table. 
+3. Find their greenhouse ID, and add them to the `Jobsite` table.
+4. Clone this repo.
+5. Deploy the worker to fly with your own API keys and document ID.
 
 ## Supported job platforms
 
