@@ -1,0 +1,12 @@
+# fly.toml app configuration file generated for jobby on 2024-09-21T01:52:04+10:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'jobby'
+primary_region = 'syd'
+
+[[vm]]
+  memory = '1gb'
+  cpu_kind = 'shared'
+  cpus = 1
