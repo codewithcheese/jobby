@@ -2,6 +2,14 @@
 
 Track new jobs from companies you like. Uses [Grist](https://www.getgrist.com/) to store and retrieve job data.
 
+See the [jobs](https://docs.getgrist.com/n9izTh6BMmma/Jobby/p/4) I am following. 
+
+## Set up your own
+
+1. Clone this [grist](https://docs.getgrist.com/n9izTh6BMmma/Jobby/p/4) documents so that you can customize the company list.
+2. Clone this repo
+3. Deploy the worker to fly with your own API keys and document ID.
+
 ## Supported job platforms
 
 - Greenhouse
