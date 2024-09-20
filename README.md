@@ -1,6 +1,6 @@
 # jobby
 
-**Please note this project is "complete", it is a demo, you may open issues to talk with others, but don't expect support. Feel free to fork.**
+**Please note this project is demo, I consider it complete for my purposes. You're welcome to open issues to talk with others, but don't expect support. Feel free to fork.**
 
 Track new jobs from companies you like. Uses [Grist](https://www.getgrist.com/) to store and retrieve job data.
 
